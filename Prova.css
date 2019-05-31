@@ -1,0 +1,65 @@
+body {
+	color: #333333;
+	margin-left: auto;
+	margin-right: auto;
+	width: 940px;
+	/*Esse bloco de codigo deixa o tudo centralizado*/
+}
+
+h2{
+	margin-top: 100px;
+	border-bottom: 2px dotted #333333;
+	/*dashed- deixa pontilhada, dotted- pontinhos pequenos, double- reta, groove- reta */
+
+	/*Coloca a barra em baixo de todos os titulos*/
+}
+h1{
+	color: #86B404;
+	font-family:  helvetica, sans-serif;
+	
+}
+
+body{
+	background-color: #FDF2E9;
+	font-weight: bold; 
+}
+
+#rodape{
+	text-align: center;
+
+}
+.Menu ol li{
+	display: list-item;
+	margin-left: 20px;
+	
+}
+.Menu {
+	position: absolute;
+	top: 30;
+	right: 0;
+	background-color: #ffffff;
+}
+
+ #Avenida-Beira-Rio{
+ 	float: left;
+    margin: 0 10px 10px 10px;
+ }
+ #Queijo-coalho{
+ 	float: left;
+    margin: 0 10px 10px 10px;
+ }
+ #Coco-Bit{
+ 	float: left;
+    margin: 0 10px 10px 10px;
+ } 
+
+#interface{
+	width: 600px;
+	background-color: #ffffff;
+	margin: -30px auto 70px 10px;
+
+}
+
+
+
+
